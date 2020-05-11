@@ -1,0 +1,8 @@
+Step-1:Create three Packages with names c_n_user,c_n_pojo,c_n_dao
+In c_n_pojo package I Created Student class and address class
+In c_n_dao package I created College class in these I defined methods and operations
+In c_n_user package I created College_Front_office and I performed  operations
+Step-2:How to execute
+->First install jdk software and set class path in command prompt
+->Open cmd prompt and type javac c_n_user\College_Front_office.java
+->running java program ,java c_n_user.College_Front_office
